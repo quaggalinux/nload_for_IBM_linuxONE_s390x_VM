@@ -38,6 +38,12 @@
   
 #./configure && make  
   
+编译完成后nload运行文件在src目录里面  
+  
+#cd src  
+  
+#cp nload /usr/bin/  
+  
 完成后就可以愉快地玩耍了 ( *￣▽￣)o ─═≡※:☆  
   
 
